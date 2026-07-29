@@ -20114,8 +20114,8 @@
     "id": "vaultchat",
     "name": "VaultChat",
     "author": "kpulik",
-    "description": "Multi-provider AI chat with file reading, editing, creation, and deletion. Supports Anthropic, OpenAI, Google Gemini, OpenRouter, and Ollama. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kpulik/Chatsidian"
+    "description": "Multi-provider AI chat with file reading, editing, creation, and deletion. Supports Anthropic, OpenAI, Google Gemini, OpenRouter, and local servers such as Ollama and LM Studio. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kpulik/VaultChat"
   },
   {
     "id": "deepl-translate-selection",
